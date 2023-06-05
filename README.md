@@ -1,8 +1,7 @@
 # Markdown Editor
 
-<img src="https://renhongl.github.io/images/logo.png" width="40px"/>
 
-Pomelo Markdown Editor is a full front-end side, react powered html5 markdown editor.
+Markdown Editor is a full front-end side, react powered html5 markdown editor.
 
 - Type some markdown on the left
 - See preview on the right
@@ -28,7 +27,7 @@ You can also:
 
 # Tech
 
-Pomelo Markdown Editor uses a number of open source projects to work properly:
+Markdown Editor uses a number of open source projects to work properly:
 
 - [React]() - HTML enhanced for web apps
 - [CodeMirror]() - Versatile text edior
@@ -39,7 +38,7 @@ Pomelo Markdown Editor uses a number of open source projects to work properly:
 
 # Installation
 
-Pomelo Markdown Editor requires [Node.js]() v8+ to run.
+Markdown Editor requires [Node.js]() v8+ to run.
 
 - Install dependence: `npm install`
 - Build app: `npm run build`
@@ -51,6 +50,4 @@ Pomelo Markdown Editor requires [Node.js]() v8+ to run.
 - <input type="checkbox" checked disabled/>Show status for does not save file
 - <input type="checkbox" disabled/>Explore save to third party service
 
-# License
 
-MIT

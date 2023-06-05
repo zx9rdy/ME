@@ -1,8 +1,7 @@
-# 柚子 Markdown 编辑器
+# Markdown 编辑器
 
-<img src="https://renhongl.github.io/images/logo.png" width="40px"/>
 
-柚子 Markdown 编辑器是一个纯前端语言，基于 react 的 html5 markdown 编辑器。
+Markdown 编辑器是一个纯前端语言，基于 react 的 html5 markdown 编辑器。
 
 - 在左边写入 markdown 内容
 - 在右边预览
@@ -28,7 +27,7 @@
 
 # 使用技术
 
-柚子 Markdown 编辑器使用了如血一些技术：
+Markdown 编辑器使用了如血一些技术：
 
 - [React]() - js 网页增强库
 - [CodeMirror]() - 多才多艺的文本编辑器
@@ -39,7 +38,7 @@
 
 # 安装
 
-柚子 Markdown 编辑器需要 [Node.js]() v8+ 去运行.
+Markdown 编辑器需要 [Node.js]() v8+ 去运行.
 
 - 安装依赖: `npm install`
 - 打包应用: `npm run build`
@@ -51,6 +50,4 @@
 - <input type="checkbox" checked disabled/>展示未保存文档的状态
 - <input type="checkbox" disabled/>探索如何保存文档到第三方
 
-# 许可证
 
-MIT
