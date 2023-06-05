@@ -5,7 +5,10 @@
   font-weight: 400;
   src: url(./flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format("woff2");
 }
-
+@font-face {
+  font-family: "小饼干手写体";
+  src: url("./CookieHand-Regular.ttf");
+}
 .material-icons {
   font-family: "Material Icons";
   font-weight: normal;
@@ -55,7 +58,7 @@
   letter-spacing: 0px;
   line-height: 25px;
   word-spacing: 0px;
-  font-family: monospace;
+  font-family: "小饼干手写体", monospace;
   font-weight: 400;
   font-size: 1rem;
 }
@@ -201,6 +204,7 @@ p {
   width: calc(100% - 30px);
   height: calc(100% - 66px);
   padding: 15px;
+  font-family: "小饼干手写体", monospace;
 }
 
 .CodeMirror-sizer {
@@ -411,4 +415,7 @@ span.setting-key {
   margin-left: 20px;
   text-align: center;
   position: relative;
+}
+* {
+  font-family: "小饼干手写体";
 }
